@@ -1,0 +1,14 @@
+This file is your catalogue to use this program.
+
+First, Store your equations in a text file named 'equations.txt'.
+
+If you have 6 equations, Your text file should be like this:
+
+Number of equations: 6
+
+eq₁: a₁₁x₁ + a₁₂x₂ + a₁₃x₃ + a₁₄x₄ + a₁₅x₅ + a₁₆x₆ = a₁₀
+eq₂: a₂₁x₁ + a₂₂x₂ + a₂₃x₃ + a₂₄x₄ + a₂₅x₅ + a₂₆x₆ = a₂₀
+eq₃: a₃₁x₁ + a₃₂x₂ + a₃₃x₃ + a₃₄x₄ + a₃₅x₅ + a₃₆x₆ = a₃₀
+eq₄: a₄₁x₁ + a₄₂x₂ + a₄₃x₃ + a₄₄x₄ + a₄₅x₅ + a₄₆x₆ = a₄₀
+eq₅: a₅₁x₁ + a₅₂x₂ + a₅₃x₃ + a₅₄x₄ + a₅₅x₅ + a₅₆x₆ = a₅₀
+eq₆: a₆₁x₁ + a₆₂x₂ + a₆₃x₃ + a₆₄x₄ + a₆₅x₅ + a₆₆x₆ = a₆₀
